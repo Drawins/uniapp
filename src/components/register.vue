@@ -31,21 +31,21 @@
                     <v-text-field
                       v-modle="last"
                       color="teal"
-                      label="First name"
+                      label="Last name"
                       variant="underline"
                     ></v-text-field>
 
                     <v-text-field
                       v-modle="email"
                       color="teal"
-                      label="First name"
+                      label="Email"
                       variant="underline"
                     ></v-text-field>
 
                     <v-text-field
                       v-modle="phone"
                       color="teal"
-                      label="First name"
+                      label="Phone"
                       variant="underline"
                       type="number"
                     ></v-text-field>
@@ -53,7 +53,7 @@
                     <v-text-field
                       v-modle="password"
                       color="teal"
-                      label="First name"
+                      label="Password"
                       placeholder="Enter your password"
                       variant="underline"
                       type="password"
