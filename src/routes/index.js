@@ -5,6 +5,7 @@ import aboutus from "./../components/aboutus.vue"
 import signup from "./../components/signup.vue"
 import login from "./../components/login.vue"
 import register from "./../components/register.vue"
+import students from "./../components/students.vue"
 
 
 

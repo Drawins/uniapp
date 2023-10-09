@@ -30,7 +30,8 @@
     <a href="#">Forgot Password ?</a>
     </div><br><br>
     <button type="submit" class="btn">log in</button><br><br>
-    <P>If you don't have an account <a href="#">sign up</a></P>
+    <P>If you don't have an account   <link  href="signup.vue"> sign up</P>
+    
 </div>
     </div>
 </template>
